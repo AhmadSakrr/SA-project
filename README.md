@@ -69,6 +69,8 @@ The proposed Clinic Management System provides an efficient solution to manage c
 - [x] Event table [Ahmed Sakr]
 - [x] Use case diagram [Ahmed Sakr]
 - [x] [Use case description for some use cases](Use_Case_Descriptions.md) [Ahmed Emad]
+- [x] [Activity diagram](activity_diagram.md) [Ahmed Emad]
+- [x] State diagram for some objects [yousef]
 - [ ] Activity diagram
 - [ ] State diagram for some objects [Youssef Adel]
 - [ ] DFD
